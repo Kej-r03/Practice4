@@ -4,6 +4,7 @@ Edit 3 in main branch, from Git, at 16:45
 Edit 4, in main, from GitHub
 
 First edit in new_unkown_commit branch, which is created in GitHub, at unknown commit location
+One commit more
 Edit 5 in main
 Edit 4, in master_GH
 
